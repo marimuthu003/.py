@@ -1,0 +1,29 @@
+{
+    "books": [
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publishedYear": 1951,
+        "genres": ["Fiction", "Coming-of-Age"]
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publishedYear": 1960,
+        "genres": ["Fiction", "Southern Gothic"]
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "publishedYear": 1949,
+        "genres": ["Dystopian", "Political Fiction"]
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publishedYear": 1925,
+        "genres": ["Fiction", "Classic"]
+      }
+    ]
+  }
+  
